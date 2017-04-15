@@ -74,6 +74,7 @@
     <Content Include="assets\fonts\FontAwesome.otf" />
     <Content Include="assets\pdf\Hulme_CV.pdf" />
     <None Include="Properties\PublishProfiles\deploy.pubxml" />
+    <None Include="Properties\PublishProfiles\willhulme.co.uk.pubxml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
